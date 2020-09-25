@@ -1,5 +1,3 @@
-
-
 # Return the total number of strings in the provided array using the count enumerable
 def count_strings(array)
   string_array = array.grep String
